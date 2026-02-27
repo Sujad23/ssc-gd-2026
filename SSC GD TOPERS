@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SSC GD 2026 Mission</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #0b3d0b;
+      color: white;
+      text-align: center;
+      margin: 0;
+    }
+    header {
+      background: black;
+      padding: 15px;
+      font-size: 22px;
+      font-weight: bold;
+    }
+    .box {
+      background: black;
+      padding: 20px;
+      margin: 20px;
+      border-radius: 10px;
+    }
+    button {
+      padding: 10px 20px;
+      background: yellow;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    footer {
+      background: black;
+      padding: 10px;
+      margin-top: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    🔥 Mission SSC GD 2026 🔥
+  </header>
+
+  <div class="box">
+    <h2>Math Section</h2>
+    <p>Percentage | Ratio | Mensuration | Time & Work</p>
+    <button>Start Practice</button>
+  </div>
+
+  <div class="box">
+    <h2>Reasoning Section</h2>
+    <p>Series | Analogy | Coding | Mirror</p>
+    <button>Start Practice</button>
+  </div>
+
+  <div class="box">
+    <h2>Mock Test</h2>
+    <p>Full Length Test with Timer</p>
+    <button>Start Mock</button>
+  </div>
+
+  <footer>
+    ⭐ Owner: Chowdhary Sujad ⭐
+  </footer>
+
+</body>
+</html>
